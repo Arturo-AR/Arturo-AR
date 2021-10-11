@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Arturo-AR
+- 👀 I’m interested in android development
+- 🌱 I’m currently learning Kotlin
